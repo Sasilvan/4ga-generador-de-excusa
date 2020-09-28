@@ -1,0 +1,16 @@
+#contenido{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 150px;
+    font-family: 'Bangers', cursive;
+    color:purple;
+}
+.button{
+background-color: rgb(177, 105, 147);
+border: 1px;
+padding: 15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 20px;
+}
